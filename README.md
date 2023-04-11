@@ -1,5 +1,5 @@
-# Repositorio-público-personal-para-la-asignatura-SSL
-Repositorio público personal para la asignatura Sintaxis y Semántica de los Lenguajes 
+#     SSL-2023
+# Repositorio público personal para la asignatura Sintaxis y Semántica de los Lenguajes 
 * Sintaxis y Semántica del lenguaje
 * K2051
 * 2022
