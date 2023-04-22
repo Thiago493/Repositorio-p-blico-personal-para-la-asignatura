@@ -1,1 +1,1 @@
-* Compilador Seleccionado: gcc para vcisual Studio code
+* Compilador Seleccionado: gcc para visual Studio code
